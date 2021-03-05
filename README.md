@@ -1,4 +1,4 @@
-# citrine-challenge
+# coding-challenge
 
 To build and run the docker image:
 
